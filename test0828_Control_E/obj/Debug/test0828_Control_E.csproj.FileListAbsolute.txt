@@ -1,0 +1,8 @@
+D:\LAB_E\test0828_Control_E\test0828_Control_E\bin\Debug\test0828_Control_E.exe.config
+D:\LAB_E\test0828_Control_E\test0828_Control_E\bin\Debug\test0828_Control_E.exe
+D:\LAB_E\test0828_Control_E\test0828_Control_E\bin\Debug\test0828_Control_E.pdb
+D:\LAB_E\test0828_Control_E\test0828_Control_E\obj\Debug\test0828_Control_E.Form1.resources
+D:\LAB_E\test0828_Control_E\test0828_Control_E\obj\Debug\test0828_Control_E.Properties.Resources.resources
+D:\LAB_E\test0828_Control_E\test0828_Control_E\obj\Debug\test0828_Control_E.csproj.GenerateResource.Cache
+D:\LAB_E\test0828_Control_E\test0828_Control_E\obj\Debug\test0828_Control_E.exe
+D:\LAB_E\test0828_Control_E\test0828_Control_E\obj\Debug\test0828_Control_E.pdb
